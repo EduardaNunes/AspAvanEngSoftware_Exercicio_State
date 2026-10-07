@@ -11,7 +11,7 @@ public class Luta {
     public void setEstado(LutaEstado estado){
         this.estado = estado;
     }
-    
+
     public LutaEstado getEstado() {
         return estado;
     }
